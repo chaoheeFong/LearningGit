@@ -1,4 +1,4 @@
-# LearningGit
+# LearningGt
 Learning Repository for practical3
 
 
